@@ -2,5 +2,31 @@
   "$schema": "https://raw.githubusercontent.com/microsoft/AL-Go-Actions/v9.1/.Modules/settings.schema.json",
   "country": "w1",
   "appFolders": [],
-  "testFolders": []
+  "testFolders": [],
+   "appDependencyProbingPaths": [
+    {
+      "repo": ".",
+      "release_status": "thisBuild",
+      "version": "latest",
+      "projects": "Foundation"
+    },
+    {
+      "repo": ".",
+      "release_status": "thisBuild",
+      "version": "latest",
+      "projects": "CommonBusiness"
+    },
+    {
+      "repo": ".",
+      "release_status": "thisBuild",
+      "version": "latest",
+      "projects": "RTR"
+    },
+    {
+      "repo": ".",
+      "release_status": "thisBuild",
+      "version": "latest",
+      "projects": "Interface"
+    }
+  ]
 }
