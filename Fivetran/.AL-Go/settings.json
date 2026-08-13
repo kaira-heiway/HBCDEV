@@ -3,7 +3,7 @@
   "country": "w1",
   "appFolders": [],
   "testFolders": [],
-   "appDependencyProbingPaths": [
+  "appDependencyProbingPaths": [
     {
       "repo": ".",
       "release_status": "thisBuild",
