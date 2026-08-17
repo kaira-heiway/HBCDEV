@@ -6,6 +6,6 @@
   "bcptTestFolders": [],
   "generateDependencyArtifact":true,
   "installApps": [
-    "https://github.com/kaira-heiway/dependency/releases/download/ApteanApp/Build.Apps.zip"
+    "https://github.com/kaira-heiway/dependency/releases/download/ApteanApp/LatestApps.zip"
   ]
 }
