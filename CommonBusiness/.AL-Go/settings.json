@@ -10,5 +10,9 @@
       "version": "latest",
       "projects": "Foundation"
     }
+  ],
+    "generateDependencyArtifact":true,
+    "installApps": [
+    "https://github.com/kaira-heiway/dependency/releases/download/ApteanApp/Build.Apps.zip"
   ]
 }

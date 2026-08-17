@@ -3,5 +3,9 @@
   "country": "w1",
   "appFolders": [],
   "testFolders": [],
-  "bcptTestFolders": []
+  "bcptTestFolders": [],
+  "generateDependencyArtifact":true,
+  "installApps": [
+    "https://github.com/kaira-heiway/dependency/releases/download/ApteanApp/Build.Apps.zip"
+  ]
 }
