@@ -28,7 +28,13 @@
       "name": "Aptean Beverage Tax Management for Drink-IT Edition",
       "publisher": "Aptean",
       "version": "2601.1.292607.0"
-      }
+      },
+    {
+      "id": "81915655-f812-4f10-8976-267e1e80c59a",
+      "name": "Aptean Beverage Foundation Layer for Drink-IT Edition",
+      "publisher": "Aptean",
+      "version": "2602.0.332063.0"
+    }
   ],
   "screenshots": [],
   "platform": "1.0.0.0",
