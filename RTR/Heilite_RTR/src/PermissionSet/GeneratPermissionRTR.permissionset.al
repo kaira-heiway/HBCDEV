@@ -25,7 +25,6 @@ permissionset 55000 GeneratPermissionRTR
         report "CA Module - Cust. Dimensions" = X,
         report "CA Module - Find Gaps" = X,
         report "CA Module - Item Dimensions" = X,
-        report "Calculate Depreciation-RtR" = X,
         report "Check BA_FCIB" = X,
         report "Check Burundi Bancobu" = X,
         report "Check Haiti Commercial" = X,
